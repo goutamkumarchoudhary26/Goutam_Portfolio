@@ -4,7 +4,6 @@ dist-ssr
 .git
 .github
 .vscode
-.claude
 *.log
 .env
 .env.local
